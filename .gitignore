@@ -25,3 +25,6 @@ Thumbs.db
 
 *.swp
 *.swo
+
+# Static demo build
+/pages-demo/dist
