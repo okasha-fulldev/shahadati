@@ -1,3 +1,16 @@
+# شهادتي | Shahadati
+
+منصة إلكترونية لإصدار وإدارة الشهادات للجهات التعليمية.
+
+🔗 **نسخة العرض (الواجهة):** https://okasha-fulldev.github.io/shahadati/
+
+> نسخة العرض تعرض الصفحات العامة فقط (الرئيسية، الخدمات، من نحن، تواصل معنا) وهي مستضافة على GitHub Pages.
+> تسجيل الدخول ولوحة التحكم وإصدار الشهادات تحتاج النسخة الكاملة (Laravel) ولا تعمل في نسخة العرض.
+
+**التقنيات:** Laravel · React (Inertia) · Tailwind CSS
+
+---
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
